@@ -1,3 +1,4 @@
 scipy
 requests
 python-firebase
+git+https://github.com/ozgur/python-firebase
